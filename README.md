@@ -24,3 +24,14 @@ This project implements a graphical user interface (GUI) application that allows
 
    ```bash
    pip install osmnx networkx matplotlib tkinter
+
+## Application Interface
+
+This application features a user-friendly interface for selecting cities and finding shortest paths.
+
+![Main Window](https://github.com/IDIR2626/search-algo/edit/main/screenshot.png)
+
+## Authors 
+1. HOCINE Mohand Ouidir
+2. MENAD abdelmadjid
+3. BAHLOUL rami 
