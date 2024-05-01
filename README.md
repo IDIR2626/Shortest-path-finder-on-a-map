@@ -29,7 +29,7 @@ This project implements a graphical user interface (GUI) application that allows
 
 This application features a user-friendly interface for selecting cities and finding shortest paths.
 
-![Main Window](https://github.com/IDIR2626/search-algo/edit/main/screenshot.png)
+![Main Window](https://github.com/IDIR2626/search-algo/blob/main/captur%20the%20sortes%20way.png)
 
 ## Authors 
 1. HOCINE Mohand Ouidir
